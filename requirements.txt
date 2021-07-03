@@ -4,6 +4,10 @@ pyproj
 Pillow
 pyshp
 Shapely
+Cython 
+numpy 
+GEOS 
+six
 Cartopy
 
 
