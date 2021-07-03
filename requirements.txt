@@ -1,14 +1,23 @@
 voila
 git+git://github.com/giswqs/geemap.git
-pyproj
-Pillow
-pyshp
-Shapely
-Cython 
-numpy 
-GEOS 
-six
-Cartopy
+# pyproj
+# Pillow
+# pyshp
+# Shapely
+# Cython 
+# numpy 
+# GEOS 
+# six
+# Cartopy
+
+Cartopy==0.17.0
+numpy==1.15.3
+Cython==0.29
+Shapely==1.6.4.post2
+pyshp==2.0.1
+six==1.11.0
+proj --> Rel. 5.2.0, September 15th, 2018
+geos-config --version --> 3.7.0
 
 
 # pyproj‑3.0.1‑cp38‑cp38‑win_amd64.whl
