@@ -17,7 +17,7 @@ Shapely==1.6.4.post2
 pyshp==2.0.1
 six==1.11.0
 proj
-geos-config --version --> 3.7.0
+geos-config==3.7.0
 
 
 # pyproj‑3.0.1‑cp38‑cp38‑win_amd64.whl
