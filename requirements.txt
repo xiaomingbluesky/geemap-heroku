@@ -1,5 +1,6 @@
 voila
 git+git://github.com/giswqs/geemap.git
+wheel
 # pyproj
 # Pillow
 # pyshp
