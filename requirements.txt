@@ -21,8 +21,8 @@ git+git://github.com/giswqs/geemap.git
 # GEOS==3.3.3
 # Cartopy==0.17.0
 
-pyproj‑3.0.1‑cp38‑cp38‑win_amd64.whl
-Pillow‑8.3.0‑cp38‑cp38‑win_amd64.whl
-pyshp‑2.1.3‑py3‑none‑any.whl
-Shapely‑1.7.1‑cp38‑cp38‑win_amd64.whl
-Cartopy‑0.19.0.post1‑cp38‑cp38‑win_amd64.whl
+pyproj‑3.0.1‑cp38‑cp38‑win_amd64
+Pillow‑8.3.0‑cp38‑cp38‑win_amd64
+pyshp‑2.1.3‑py3‑none‑any
+Shapely‑1.7.1‑cp38‑cp38‑win_amd64
+Cartopy‑0.19.0.post1‑cp38‑cp38‑win_amd64
