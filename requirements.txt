@@ -10,15 +10,15 @@ git+git://github.com/giswqs/geemap.git
 # six
 # Cartopy
 
-Cartopy==0.17.0
 numpy==1.15.3
 Cython==0.29
 Shapely==1.6.4.post2
 pyshp==2.0.1
 six==1.11.0
-proj
-geos-config==3.7.0
-
+proj==4.9.0
+# geos-config==3.7.0
+GEOS==3.3.3
+Cartopy==0.17.0
 
 # pyproj‑3.0.1‑cp38‑cp38‑win_amd64.whl
 # Pillow‑8.3.0‑cp38‑cp38‑win_amd64.whl
