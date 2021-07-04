@@ -13,7 +13,7 @@ git+git://github.com/giswqs/geemap.git
 numpy==1.15.3
 Cython==0.29
 
-geos-config==3.7.0
+geos-config
 Shapely==1.6.4.post2
 pyshp==2.0.1
 six==1.11.0
