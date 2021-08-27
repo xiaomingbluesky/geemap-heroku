@@ -1,5 +1,6 @@
 voila
 git+git://github.com/giswqs/geemap.git
+tkinter
 # pyproj
 # Pillow
 # pyshp
