@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --strip_sources=True --enable_nbextensions=True --MappingKernelManager.cull_interval=60 --MappingKernelManager.cull_idle_timeout=120 --show_tracebacks=True notebooks/SSC_app.ipynb
+web: voila --port=$PORT --no-browser --strip_sources=True --enable_nbextensions=True --MappingKernelManager.cull_interval=60 --MappingKernelManager.cull_idle_timeout=120 --show_tracebacks=True notebooks/SSC02在线版.ipynb
